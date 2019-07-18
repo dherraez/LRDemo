@@ -19,27 +19,17 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
     <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="UserTasks.xml" Filter="2" />
-    <FileEntry Name="combined_MasterClass_Book_Flight.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="data.zip" Filter="1" />
-    <FileEntry Name="MasterClass_Book_Flight.c.pickle" Filter="1" />
-    <FileEntry Name="MasterClass_Book_Flight.ci" Filter="1" />
-    <FileEntry Name="MasterClass_Book_Flight.sdf" Filter="1" />
-    <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv1sq.873.log" Filter="1" />
     <FileEntry Name="mdrv2Sk.487.log" Filter="1" />
     <FileEntry Name="mdrvbmt.347.log" Filter="1" />
     <FileEntry Name="mdrverQ.987.log" Filter="1" />
     <FileEntry Name="mdrvydL.613.log" Filter="1" />
-    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
-    <FileEntry Name="options.txt" Filter="1" />
-    <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="shunra.shunra" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
-    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
-    <FileEntry Name="data\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>
